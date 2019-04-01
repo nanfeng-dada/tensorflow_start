@@ -1,5 +1,6 @@
 # TensorFlow中文手册mnist入门
 """Functions for downloading and reading MNIST data."""
+# 修改一点点
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
